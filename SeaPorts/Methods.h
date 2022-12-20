@@ -26,7 +26,6 @@ void Shipment::Descripchion(){
 	cout << "Вес: " << loadWeight << " Тип груза: " << cargoType<<endl;
 }
 
-
 Ship:: ~Ship()
 {
 
